@@ -45,5 +45,5 @@ The analysis employs a diverse array of SQL functions to extract meaningful insi
 
 ## Entity-Relationship Diagram
 
-
+<img src="instagram.png" alt="DutchInquire logo" style="height: 800px; width:1000px;">
 *The Entity-Relationship Diagram provides a visual representation of the database schema used in the analysis, illustrating the relationships between different entities and their attributes.*
